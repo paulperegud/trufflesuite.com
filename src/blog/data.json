@@ -1,4 +1,11 @@
 {
+  "how-to-stand-out": {
+    "title": "How to Standout in a Emerging Market",
+    "date": "2019-7-22",
+    "author": "Scott Olson",
+    "published": true,
+    "excerpt": "Truffle's Director of Talent, Scott Olson, shares how to standout as a blockchain developer in an emerging market."
+  },
   "why-i-love-trufflecon": {
     "title": "Why I love TruffleCon",
     "date": "2019-7-18",
@@ -27,7 +34,7 @@
     "published": true,
     "excerpt": "In this article we explore 5 trends impacting the developer-experience (or DX) when it comes to building blockchain-based solutions. Specifically, applications and services that leverage a blockchain or distributed ledger or as part of their overall architecture."
   },
-   "develop-using-fluidity-truffle-box": {
+  "develop-using-fluidity-truffle-box": {
     "title": "Develop using Fluidity Truffle Box",
     "date": "2019-7-12",
     "author": "Deepa Sathaye, Guest Blogger from Fluidity",
