@@ -4,7 +4,13 @@
     "date": "2019-9-10",
     "author": "Adrian Li",
     "published": true,
-    "excerpt": "Drizzle gets migrated to a monorepo with a focus on regular releases and a better contributor experience."
+    "excerpt": "Drizzle gets migrated to a monorepo with a focus on regular releases and a better contributor experience.",
+  "announcing-drizzle-utils": {
+    "title": "Announcing Drizzle-Utils",
+    "date": "2019-09-16",
+    "author": "Adrian Li",
+    "published": true,
+    "excerpt": "Stream your contract state to your dapp frontend with the power of RxJS."
   },
   "using-truffle-to-interact-with-chainlink-smart-contracts": {
     "title": "Using Truffle to interact with Chainlink Smart Contracts",
